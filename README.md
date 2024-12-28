@@ -44,7 +44,7 @@ This project helps farmers manage their daily tasks with priority-based scheduli
 ### SignUp and Login Pages:
 
 ![Screenshot 2024-12-26 191536](https://github.com/user-attachments/assets/ab2700e9-2c3c-48f3-8b59-94e932653224)
---
+
 ![Screenshot 2024-12-26 191707](https://github.com/user-attachments/assets/e89f8b13-788c-4aee-ad13-ec03e159ecee)
 
 ![Screenshot 2024-12-26 191820](https://github.com/user-attachments/assets/51f81d08-c442-42a0-b5f6-2e62518986eb)
